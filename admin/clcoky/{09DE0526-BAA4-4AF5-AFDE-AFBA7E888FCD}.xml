@@ -1,0 +1,6 @@
+﻿<?xml version="1.0"?>
+<configuration date="2018/03/18" author="e.World Technology Ltd.">
+<project id="{09DE0526-BAA4-4AF5-AFDE-AFBA7E888FCD}" file="C:\Users\BELIEVE\Documents\PHPMaker\Projects\clcoky.pmp" name="clcoky" product="PHPMaker" version="10.0" datetime="2018/03/18 17:48:10" languagefolder="phplang" userlevel="0,&quot;Default&quot;,0">
+<table id="admin" name="admin" caption="admin" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="logs" name="logs" caption="Logs" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+</project></configuration>
